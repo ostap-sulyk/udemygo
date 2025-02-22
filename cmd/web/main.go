@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 	"net/http"
-	"udemygo/pkg/handlers"
+	"github.com/ostap-sulyk/udemygo/pkg/handlers"
 )
 
 const port = ":8080"

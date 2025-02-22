@@ -2,7 +2,7 @@ package handlers
 
 import (
 	"net/http"
-	"udemygo/pkg/render"
+	"github.com/ostap-sulyk/udemygo/pkg/render"
 )
 
 // Home handles the home page request.

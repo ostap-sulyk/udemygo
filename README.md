@@ -30,10 +30,3 @@ Change it to an available port (e.g., `":9090"`), then rebuild and rerun.
 
 Here is a simple flow chart:
 
-```mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-```

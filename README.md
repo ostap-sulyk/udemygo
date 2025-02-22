@@ -27,3 +27,13 @@ If the port '":8080"' is already in use, modify the port constant in:
 const port = ":8080"
 ```
 Change it to an available port (e.g., `":9090"`), then rebuild and rerun.
+
+Here is a simple flow chart:
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
